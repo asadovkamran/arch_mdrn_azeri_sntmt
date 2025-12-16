@@ -1,6 +1,6 @@
 # Archaic vs Modern Azerbaijani NLP Evaluation
 
-This project evaluates how well **multilingual transformer models** handle **historical language variation** by comparing **Classical Azerbaijani poetry** (16th century, *Məhəmməd Füzuli*) with their **modern Azerbaijani paraphrases**.
+This project evaluates how well **multilingual transformer models** handle **historical language variation** by comparing **Classical Azerbaijani poetry** (16th century, *Məhəmməd Füzuli*) with their **modern Azerbaijani paraphrases**. (source [link text](https://arti.edu.az/wp-content/uploads/2025/11/M.-Fuzuli-Leyli-v%C9%99-M%C9%99cnun.pdf))
 
 Using a manually curated parallel dataset of **50 real sentences** from *Leyli və Məcnun*, the project analyzes sentiment robustness and semantic understanding across time.
 
