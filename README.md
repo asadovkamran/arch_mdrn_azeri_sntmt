@@ -52,16 +52,5 @@ Using a manually curated parallel dataset of **50 real sentences** from *Leyli v
 2. Compare predictions against gold labels
 3. Measure sentiment consistency across forms
 4. Compute embedding similarity using mean-pooled transformer embeddings
-5. Analyze robustness under diachronic linguistic shift
 
 ---
-
-## Project Structure
-
-```text
-.
-├── fuzuli_sentiment_and_similarity.py
-├── fuzuli_sentiment_similarity_results.csv
-├── fuzuli_sentiment_similarity_colored.xlsx
-├── fuzuli_prf_metrics.csv
-└── README.md
