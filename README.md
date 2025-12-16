@@ -55,13 +55,3 @@ Using a manually curated parallel dataset of **50 real sentences** from *Leyli v
 5. Analyze robustness under diachronic linguistic shift
 
 ---
-
-## Project Structure
-
-```text
-.
-├── fuzuli_sentiment_and_similarity.py
-├── fuzuli_sentiment_similarity_results.csv
-├── fuzuli_sentiment_similarity_colored.xlsx
-├── fuzuli_prf_metrics.csv
-└── README.md
